@@ -21,7 +21,7 @@ Contact Email: anddysumptermx@gmail.com
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,figma,ps,vscode,ai,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,figma,ps,vscode,ai,autocad)](https://skillicons.dev)
 
 </div>
 
