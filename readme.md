@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido/a👋, Mi nombre es Andrea García❤️</h1>
-<h3 align="center">🔷Frontend Developer - Ingeniera Mecatrónica y en proceso de Fullstack Developer🔷</h3>
+<h3 align="center">🔷Ingeniera Mécatronica  & QA Automation 🔷</h3>
 
 
 
@@ -12,7 +12,7 @@ Contact Email: anddysumptermx@gmail.com
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,vue,react,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,postman,selenium,html,git,github,)](https://skillicons.dev)
 
 </div>
 
@@ -30,7 +30,7 @@ Contact Email: anddysumptermx@gmail.com
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=express,ts,jquery,laravel,symfony,php,next,nestjs,jest,nodejs,mongodb,firebase,aws,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,ts,php,next,nestjs,jest,nodejs,firebase,aws,)](https://skillicons.dev)
 
 </div>
 <br>
